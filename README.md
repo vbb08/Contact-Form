@@ -31,4 +31,8 @@ HTML contact form via PHPMailer, using Gmail account.
 - Run contact form.html and visit your local host
 
 ## My personal working contact form can be checked [here](https://testingwebsite.free.nf/#contact)
-<img width="672" alt="contactform" src="https://github.com/vbb08/Contact_form/assets/67701977/a065f1b8-f1ee-40a9-8ebf-835aa0016517">
+
+### Below, contact form and email received examples displayed:
+<img width="670" alt="contact form" src="https://github.com/vbb08/Contact-Form/assets/67701977/c1cacd04-f6f2-40df-9dfa-f1a0fa98fb65">
+
+<img width="615" alt="email" src="https://github.com/vbb08/Contact-Form/assets/67701977/865eaa0f-3360-4439-8ec3-7f51d0ce8371">
